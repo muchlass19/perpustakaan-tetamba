@@ -1,0 +1,38 @@
+{
+    "user" : [ 
+        {
+            "email" : "tetamba@gmail.com",
+            "password" : "indomie",
+            "role" : "admin"
+        },
+        {
+            "email" : "user@gmail.com",
+            "password" : "userajah",
+            "role" : "visitor"
+        }    
+    ],
+
+    "buku": [
+        {
+            "id": 1,
+            "title" : "Sejarah Sejarah",
+            "description" : "Buku ini menjelaskan sejarah dari kata sejarah"
+        },
+        {
+            "id" : 2,
+            "title": "Cara Menjadi Hacker",
+            "description": "Tata  cara menjadi hacker yang andal"
+        }
+    ],
+
+    "kategori":[
+        {
+            "id": 1,
+            "name": "sejarah"
+        },
+        {
+            "id": 2,
+            "name": "komputer"
+        }
+    ]
+}
